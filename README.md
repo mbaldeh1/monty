@@ -93,3 +93,6 @@ Multiply two digits given by the user.
 19. Multiplication level up
 Multiply two digits given by the user.
 
+Authors ✒️
+
+Muhammed Baldeh and UdohYoungPJ
